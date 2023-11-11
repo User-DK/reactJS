@@ -1,0 +1,14 @@
+open sourcce library for building ui
+not a framework
+focus on ui
+rich ecosystem
+created and maintained by facebook
+
+component based architecture
+reusable code can be use in angular and vue
+react is declarative- tell react what you want anf react will build the actual ui
+
+effieciently updating and rendering of the components
+dom gracefully handled
+React native for mobile
+
